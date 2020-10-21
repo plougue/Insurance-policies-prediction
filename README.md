@@ -7,7 +7,7 @@ Files are either :
 
 Here is a small summary of the work I've done here : 
 
-The challenge consisted in analyzing a set of vehicle insurance policy proposals with several characteristics related to them and whether or not they led to a sale. I had to chose the best possible classification algorithm to predict if future proposals will be sold or not. I also had to give insights for decision makers.
+The challenge consisted in analyzing a set of vehicle insurance policy proposals with several characteristics related to them and whether or not they led to a sale. I had to choose the best possible classification algorithm to predict if future proposals will be sold or not. I also had to give insights for decision makers.
 
 I first tried to define the problem and do an extensive preliminary analysis of the data by looking at what do the features mean, how many policies are there in the set and how many values are missing. I also thought about indicators for measuring the quality of a classifier. If the idea is to help potential sellers know which client to call, false negatives should be punished more heavily than false positives because the consequences are worse. Without knowing if that was the precise use-case and only having a limited amount of time I just decided to use the miss-classification rate, leaving the issue for further work.
 
