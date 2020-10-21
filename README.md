@@ -3,7 +3,7 @@ A one week project aiming at making predictions regarding wether or not insuranc
 Files are either :
 - R scripts made for exploring / tuning / evaluating different machine learning methods
 - Their resulting plots
-- **MOST IMPORTANTLY** : report.pdf, a report explaining the process for finding the best method, some analysis of the data, as well ase some insights for a potential decision maker.
+- **MOST IMPORTANTLY** : report.pdf, a 20 page technical report explaining the process for finding the best method, some analysis of the data, as well ase some insights for a potential decision maker. It is basically a much longer and more detailed version of the summary below with plots.
 
 Here is a small summary of the work I've done here : 
 
